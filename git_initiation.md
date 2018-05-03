@@ -17,7 +17,7 @@ blablabla
 if you want to create a branch
 $ git checkout -b nameofthebanche
 
-
+## How to make merge
 
 # Markdown Cheatsheet
 
