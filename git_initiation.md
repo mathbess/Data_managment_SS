@@ -7,10 +7,16 @@ First thing to do is to configure your git with theses command lines on the term
 $ git config --global user.name "My Name"
 $ git config --global user.email "my@email.ca"
 
-# You turn now..
+# Introduction to Git and Github
 
 ... to continue this document with relevant git commands!
 blablabla
+
+## How to make branches
+
+if you want to create a branch
+$ git checkout -b nameofthebanche
+
 
 
 # Markdown Cheatsheet
